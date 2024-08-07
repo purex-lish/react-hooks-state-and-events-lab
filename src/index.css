@@ -88,6 +88,9 @@ header button {
   align-items: center;
   border-radius: 4px;
 }
+.in-cart {
+  text-decoration: line-through;
+}
 
 .Items li.in-cart {
   background: var(--background--light);
